@@ -1,0 +1,12 @@
+.container {
+    color: rgba(255, 255, 255, 0.719);
+    margin: 50px;
+}
+
+.pic {
+    width: 200px;
+    padding: 50px 10px 10px 10px;
+    padding-right: 20px;
+    height: 200px;
+    float: left;
+}
